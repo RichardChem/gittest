@@ -8,4 +8,7 @@ package com.richard.test;
  * @Version 1.0
  **/
 public class Test {
+
+    private String name;
+    private Integer id;
 }
