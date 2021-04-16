@@ -11,4 +11,5 @@ public class Test {
 
     private String name;
     private Integer id;
+    private Integer age;
 }
